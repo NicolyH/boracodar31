@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um chat de bate-papo
+Um projeto para transcrição de vídeos do youtube
 
 ## 🔖 Layout
 
